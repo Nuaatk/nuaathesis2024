@@ -264,7 +264,7 @@
     lofskip = 0pt,
     lotskip = 0pt
   }}
-  \newcommand\nuaa@font@title{\sffamily\heiti}
+  \newcommand\nuaa@font@title{\heiti}
   \newcommand\nuaa@indentloft{3.5pc}
   \newcommand\nuaa@chaptername\CTEX@chaptername
   \PassOptionsToPackage{indentafter}{titlesec}
@@ -1110,7 +1110,7 @@
     \linespread{1}\songti\fontsize{42bp}{62.4bp}\selectfont\nuaa@worktypecn
     \vspace{\stretch{2}}
 
-    \linespread{1}\sffamily\heiti\fontsize{26bp}{46.8bp}\selectfont\nuaa@value@title
+    \linespread{1}\heiti\fontsize{26bp}{46.8bp}\selectfont\nuaa@value@title
   \end{center}
   \vspace{\stretch{3}}
 
